@@ -16,3 +16,6 @@
 
 <h2>Aplicação no Vercel</h2>
 Para ter acesso a minha aplicação:
+https://challenge-amigo-secreto-pt-bay.vercel.app/
+
+![image](https://github.com/user-attachments/assets/8e086aa5-7e12-441e-b741-e1581eaf438b)
